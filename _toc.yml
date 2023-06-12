@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README.md
+options:  
+  numbered: True
+chapters:
+- file: guia.md
+- file: Chapter1/Chapter1.md
+  sections:
+  - file: Chapter1/matplotlib.ipynb
+  - file: Chapter1/seaborn.ipynb
+  - file: Chapter1/plotly.ipynb
+  - file: Chapter1/aed.md
+  - file: Chapter1/ydataprof.ipynb
+  - file: Chapter1/testesab.ipynb
+- file: Chapter2/Chapter2.md
+  sections:
+  - file: Chapter2/dataanalysis.md
+  - file: Chapter2/dash.md
+  - file: Chapter2/streamlit.md
