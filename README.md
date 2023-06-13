@@ -24,7 +24,7 @@ Algumas disciplinas/conhecimentos necessários são:
 
 Esse Gitbook é uma ferramenta de acomapnhamento/referência para a disciplina **Análise e Visualização de dados**, contemplando assim os principais frameworks de Visualização de Dados, tipos/ferramentas de análise de dados e desenvolvimento de Dashboards. 
 
-## Sobre o Author
+## Sobre o Autor
 
 ![image](img/eron.jpg)
 
